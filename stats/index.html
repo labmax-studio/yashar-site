@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ישר · סטטיסטיקת משרות</title>
+<link rel="icon" type="image/svg+xml" href="../assets/favicon.svg">
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--text:#1b2733;--muted:#5b6b7a;--line:#dfe3e8;--navy:#17324d;--amber:#f2a900;--link:#1d5fa8}
+@media (prefers-color-scheme:dark){:root{--bg:#10171f;--card:#17212b;--text:#e6ebf0;--muted:#9aa8b5;--line:#2a3846;--link:#7fb3ec}}
+*{box-sizing:border-box}html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--text);font:16px/1.65 system-ui,-apple-system,"Segoe UI",Arial,sans-serif}
+.wrap{max-width:760px;margin:0 auto;padding:24px 16px 48px}
+header{display:flex;align-items:center;gap:12px;margin-bottom:20px}
+header img{width:48px;height:48px}
+header .t{font-weight:800;font-size:20px;color:var(--text);text-decoration:none}
+header .s{color:var(--muted);font-size:14px}
+nav.lang{margin-inline-start:auto;font-size:14px}
+main{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:24px 22px}
+h1{font-size:26px;line-height:1.3;margin:0 0 6px}
+h2{font-size:19px;margin:28px 0 8px;padding-top:4px;border-top:1px solid var(--line)}
+p,li{margin:6px 0}a{color:var(--link)}
+table{width:100%;border-collapse:collapse;margin:10px 0;font-size:15px;display:block;overflow-x:auto}
+th,td{border:1px solid var(--line);padding:8px 10px;vertical-align:top;text-align:start}
+th{background:color-mix(in srgb,var(--navy) 8%,transparent)}
+strong{font-weight:700}
+.dot{display:inline-block;width:10px;height:10px;border-radius:50%;background:var(--amber);margin-inline-end:6px}
+ul.plain{list-style:none;padding-inline-start:0}
+footer{color:var(--muted);font-size:13px;margin-top:18px;text-align:center}
+.kpi{display:flex;flex-wrap:wrap;gap:10px;margin:14px 0}
+.kpi div{flex:1 1 140px;border:1px solid var(--line);border-radius:10px;padding:10px 12px}
+.kpi b{display:block;font-size:22px;line-height:1.2}
+.kpi span{color:var(--muted);font-size:13px}
+td.n{white-space:nowrap;font-variant-numeric:tabular-nums}
+td.bar{width:40%;min-width:90px;vertical-align:middle}
+.bar i{display:block;height:8px;border-radius:4px;background:var(--amber)}
+.muted{color:var(--muted)}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <img src="../assets/icon.svg" alt="">
+  <div><a class="t" href="../">ישר</a><div class="s">משרות בלי מתווכים</div></div>
+  <nav class="lang"><a href="en/">English</a></nav>
+</header>
+<main>
+<h1>סטטיסטיקת משרות</h1>
+<p>תמונת מצב של המשרות הפתוחות ב־ישר, נכון ל־26 באוקטובר 2026. מתעדכן פעם ביום.</p>
+<div class="kpi"><div><b>1,060</b><span>משרות פתוחות</span></div><div><b>72</b><span>חברות</span></div><div><b>964</b><span>בארץ</span></div><div><b>96</b><span>מרחוק</span></div><div><b>92%</b><span>עם תאריך פתיחה ידוע</span></div></div>
+
+<h2>ערים</h2>
+<table>
+<tr><th>עיר</th><th>משרות פתוחות</th><th></th></tr>
+<tr><td>תל אביב-יפו</td><td class="n">564</td><td class="bar"><i style="width:100%"></i></td></tr>
+<tr><td>ירושלים</td><td class="n">73</td><td class="bar"><i style="width:13%"></i></td></tr>
+<tr><td>רמת גן</td><td class="n">67</td><td class="bar"><i style="width:12%"></i></td></tr>
+<tr><td>הרצליה</td><td class="n">62</td><td class="bar"><i style="width:11%"></i></td></tr>
+<tr><td>חיפה</td><td class="n">26</td><td class="bar"><i style="width:5%"></i></td></tr>
+<tr><td>נתניה</td><td class="n">26</td><td class="bar"><i style="width:5%"></i></td></tr>
+<tr><td>רעננה</td><td class="n">23</td><td class="bar"><i style="width:4%"></i></td></tr>
+<tr><td>פתח תקווה</td><td class="n">21</td><td class="bar"><i style="width:4%"></i></td></tr>
+<tr><td class="muted">ערים אחרות (9)</td><td class="n">18</td><td class="bar"><i style="width:3%"></i></td></tr>
+<tr><td class="muted">עיר לא צוינה</td><td class="n">106</td><td class="bar"><i style="width:19%"></i></td></tr>
+</table>
+
+<h2>מקצועות</h2>
+<table>
+<tr><th>מקצוע</th><th>משרות פתוחות</th><th>חברות</th><th>חציון ימים פתוחה</th><th>נפתחו מחדש</th></tr>
+<tr><td>פיתוח והנדסה</td><td class="n">226</td><td class="n">51</td><td class="n">69</td><td class="n">2%</td></tr>
+<tr><td>AI, למידת מכונה ואלגוריתמים</td><td class="n">103</td><td class="n">34</td><td class="n">81</td><td class="n">4%</td></tr>
+<tr><td>סייבר ואבטחת מידע</td><td class="n">98</td><td class="n">31</td><td class="n">77</td><td class="n">1%</td></tr>
+<tr><td>ניהול מוצר</td><td class="n">94</td><td class="n">37</td><td class="n">60</td><td class="n">0%</td></tr>
+<tr><td>DevOps, תשתיות ו־IT</td><td class="n">85</td><td class="n">36</td><td class="n">65</td><td class="n">2%</td></tr>
+<tr><td>לוגיסטיקה, מחסנים וחנויות</td><td class="n">63</td><td class="n">3</td><td class="n"><span class="muted">מעט נתונים</span></td><td class="n"><span class="muted">מעט נתונים</span></td></tr>
+<tr><td>הצלחת לקוחות, תמיכה ופריסייל</td><td class="n">60</td><td class="n">27</td><td class="n">49</td><td class="n">3%</td></tr>
+<tr><td>תפעול וניהול פרויקטים</td><td class="n">57</td><td class="n">19</td><td class="n">38</td><td class="n">5%</td></tr>
+<tr><td>דאטה ואנליטיקה</td><td class="n">53</td><td class="n">25</td><td class="n">66</td><td class="n">11%</td></tr>
+<tr><td>מכירות ופיתוח עסקי</td><td class="n">40</td><td class="n">20</td><td class="n">48</td><td class="n">5%</td></tr>
+<tr><td>כספים</td><td class="n">31</td><td class="n">15</td><td class="n">60</td><td class="n">3%</td></tr>
+<tr><td>עיצוב ו־UX</td><td class="n">30</td><td class="n">17</td><td class="n">49</td><td class="n">3%</td></tr>
+<tr><td>שיווק ותוכן</td><td class="n">28</td><td class="n">14</td><td class="n">68</td><td class="n">4%</td></tr>
+<tr><td>משאבי אנוש וגיוס</td><td class="n">28</td><td class="n">16</td><td class="n">28</td><td class="n">0%</td></tr>
+<tr><td>QA ובדיקות</td><td class="n">25</td><td class="n">8</td><td class="n">40</td><td class="n">0%</td></tr>
+<tr><td>פרונטאנד ומובייל</td><td class="n">13</td><td class="n">8</td><td class="n"><span class="muted">מעט נתונים</span></td><td class="n"><span class="muted">מעט נתונים</span></td></tr>
+<tr><td>משפטי ורגולציה</td><td class="n">10</td><td class="n">8</td><td class="n">33</td><td class="n">10%</td></tr>
+<tr><td>אחר</td><td class="n">9</td><td class="n">6</td><td class="n"><span class="muted">מעט נתונים</span></td><td class="n"><span class="muted">מעט נתונים</span></td></tr>
+<tr><td class="muted">בקשות כלליות</td><td class="n">7</td><td class="n">6</td><td class="n"><span class="muted">—</span></td><td class="n"><span class="muted">—</span></td></tr>
+</table>
+
+<h2>כמה זמן משרות נשארות פתוחות</h2>
+<p>חציון הימים מאז שהמעסיק פרסם את המשרה, לפי מקצוע (חציון לפי חברות). זה כמה זמן משרות נשארות פתוחות — לא מדד למחסור בעובדים.</p>
+<table>
+<tr><th>מקצוע</th><th>חציון ימים פתוחה</th><th></th></tr>
+<tr><td>AI, למידת מכונה ואלגוריתמים</td><td class="n">81 ימים</td><td class="bar"><i style="width:100%"></i></td></tr>
+<tr><td>סייבר ואבטחת מידע</td><td class="n">77 ימים</td><td class="bar"><i style="width:95%"></i></td></tr>
+<tr><td>פיתוח והנדסה</td><td class="n">69 ימים</td><td class="bar"><i style="width:85%"></i></td></tr>
+<tr><td>שיווק ותוכן</td><td class="n">68 ימים</td><td class="bar"><i style="width:84%"></i></td></tr>
+<tr><td>דאטה ואנליטיקה</td><td class="n">66 ימים</td><td class="bar"><i style="width:81%"></i></td></tr>
+<tr><td>DevOps, תשתיות ו־IT</td><td class="n">65 ימים</td><td class="bar"><i style="width:80%"></i></td></tr>
+<tr><td>ניהול מוצר</td><td class="n">60 ימים</td><td class="bar"><i style="width:74%"></i></td></tr>
+<tr><td>כספים</td><td class="n">60 ימים</td><td class="bar"><i style="width:74%"></i></td></tr>
+<tr><td>הצלחת לקוחות, תמיכה ופריסייל</td><td class="n">49 ימים</td><td class="bar"><i style="width:60%"></i></td></tr>
+<tr><td>עיצוב ו־UX</td><td class="n">49 ימים</td><td class="bar"><i style="width:60%"></i></td></tr>
+<tr><td>מכירות ופיתוח עסקי</td><td class="n">48 ימים</td><td class="bar"><i style="width:59%"></i></td></tr>
+<tr><td>QA ובדיקות</td><td class="n">40 ימים</td><td class="bar"><i style="width:49%"></i></td></tr>
+<tr><td>תפעול וניהול פרויקטים</td><td class="n">38 ימים</td><td class="bar"><i style="width:47%"></i></td></tr>
+<tr><td>משפטי ורגולציה</td><td class="n">33 ימים</td><td class="bar"><i style="width:41%"></i></td></tr>
+<tr><td>משאבי אנוש וגיוס</td><td class="n">28 ימים</td><td class="bar"><i style="width:35%"></i></td></tr>
+</table>
+
+<h2>חברות עם הכי הרבה משרות פתוחות</h2>
+<table>
+<tr><th>חברה</th><th>משרות פתוחות</th><th></th></tr>
+<tr><td>Mobileye</td><td class="n">153</td><td class="bar"><i style="width:100%"></i></td></tr>
+<tr><td>Nebius</td><td class="n">111</td><td class="bar"><i style="width:73%"></i></td></tr>
+<tr><td>Wolt</td><td class="n">71</td><td class="bar"><i style="width:46%"></i></td></tr>
+<tr><td>monday.com</td><td class="n">62</td><td class="bar"><i style="width:41%"></i></td></tr>
+<tr><td>Cato Networks</td><td class="n">38</td><td class="bar"><i style="width:25%"></i></td></tr>
+<tr><td>Similarweb</td><td class="n">31</td><td class="bar"><i style="width:20%"></i></td></tr>
+<tr><td>Payoneer</td><td class="n">26</td><td class="bar"><i style="width:17%"></i></td></tr>
+<tr><td>Aidoc</td><td class="n">25</td><td class="bar"><i style="width:16%"></i></td></tr>
+<tr><td>Taboola</td><td class="n">25</td><td class="bar"><i style="width:16%"></i></td></tr>
+<tr><td>Upwind</td><td class="n">25</td><td class="bar"><i style="width:16%"></i></td></tr>
+</table>
+
+<h2>איך סופרים</h2>
+<ul class="plain">
+<li><span class="dot"></span>מקור: רק דפי הקריירה הרשמיים של 72 החברות שב־ישר — לא כל השוק.</li>
+<li><span class="dot"></span>מקצוע: לפי שם המשרה, בקירוב. מה שלא זוהה — «אחר». «בקשות כלליות» (מאגרי מועמדים, «לא מצאת משרה מתאימה?») — בשורה נפרדת, בלי חציון.</li>
+<li><span class="dot"></span>גיל משרה: לפי תאריך הפרסום אצל המעסיק, היכן שהוא ידוע (92% מהמשרות). חציון ושיעור פתיחה מחדש — רק כשיש לפחות 10 משרות עם תאריך מלפחות 5 חברות; אחרת «מעט נתונים».</li>
+<li><span class="dot"></span>החציון מחושב לפי חברות: קודם החציון בכל חברה, ואז החציון שלהם — כך שחברה אחת עם הרבה משרות לא קובעת את התמונה.</li>
+<li><span class="dot"></span>משרה בכמה ערים נספרת בכל אחת מהן. תמונת מצב פעם ביום.</li>
+</ul>
+</main>
+<footer>Max Lab · <a href="mailto:labmax.information@gmail.com">labmax.information@gmail.com</a></footer>
+</div>
+</body>
+</html>
