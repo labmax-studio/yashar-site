@@ -1,14 +1,14 @@
 {
   "version": 1,
   "country": "IL",
-  "generatedAt": "2026-10-26T11:45:45.693Z",
-  "date": "2026-10-26",
+  "generatedAt": "2026-10-27T09:19:16.169Z",
+  "date": "2026-10-27",
   "totals": {
-    "jobs": 1060,
+    "jobs": 1054,
     "companies": 72,
     "inCountry": 964,
-    "remote": 96,
-    "ageCoverage": 0.9198113207547169
+    "remote": 90,
+    "ageCoverage": 0.9193548387096774
   },
   "cities": {
     "top": [
@@ -16,7 +16,7 @@
         "id": "a962c2b1-6f68-4928-b56d-626c22395e02",
         "name_local": "תל אביב-יפו",
         "name_en": "Tel Aviv-Yafo",
-        "jobs": 564
+        "jobs": 560
       },
       {
         "id": "6a28b9c3-c0d2-467b-809f-3d31738b5bd6",
@@ -28,7 +28,7 @@
         "id": "12d97f6b-6a29-42b9-b713-2d02bec6d628",
         "name_local": "רמת גן",
         "name_en": "Ramat Gan",
-        "jobs": 67
+        "jobs": 68
       },
       {
         "id": "7d6ca1fe-d33e-49e9-acb0-f01ea0462166",
@@ -46,7 +46,7 @@
         "id": "85c3a821-addf-4678-bea6-849e9da70ea1",
         "name_local": "נתניה",
         "name_en": "Netanya",
-        "jobs": 26
+        "jobs": 25
       },
       {
         "id": "adfea808-e55e-4970-8feb-aea48f1547b0",
@@ -63,56 +63,56 @@
     ],
     "other": {
       "cities": 9,
-      "jobs": 18
+      "jobs": 19
     },
-    "unspecified": 106
+    "unspecified": 108
   },
   "professions": [
     {
       "id": "software",
-      "jobs": 226,
+      "jobs": 220,
       "companies": 51,
-      "dated": 203,
+      "dated": 198,
       "medianDays": 69,
-      "reopenedShare": 0.022123893805309734
+      "reopenedShare": 0.022727272727272728
     },
     {
       "id": "data_ml_ai",
-      "jobs": 103,
+      "jobs": 105,
       "companies": 34,
-      "dated": 97,
-      "medianDays": 81,
-      "reopenedShare": 0.038834951456310676
+      "dated": 99,
+      "medianDays": 83,
+      "reopenedShare": 0.0380952380952381
     },
     {
       "id": "security",
-      "jobs": 98,
+      "jobs": 101,
       "companies": 31,
-      "dated": 92,
-      "medianDays": 77,
-      "reopenedShare": 0.01020408163265306
+      "dated": 95,
+      "medianDays": 76,
+      "reopenedShare": 0.009900990099009901
     },
     {
       "id": "product",
-      "jobs": 94,
+      "jobs": 92,
       "companies": 37,
-      "dated": 85,
-      "medianDays": 60,
+      "dated": 83,
+      "medianDays": 63,
       "reopenedShare": 0
     },
     {
       "id": "devops_infra",
-      "jobs": 85,
+      "jobs": 84,
       "companies": 36,
-      "dated": 77,
-      "medianDays": 65,
-      "reopenedShare": 0.023529411764705882
+      "dated": 76,
+      "medianDays": 66,
+      "reopenedShare": 0.023809523809523808
     },
     {
       "id": "logistics_retail",
-      "jobs": 63,
+      "jobs": 64,
       "companies": 3,
-      "dated": 62,
+      "dated": 63,
       "medianDays": null,
       "reopenedShare": null
     },
@@ -120,24 +120,24 @@
       "id": "customer_solutions",
       "jobs": 60,
       "companies": 27,
-      "dated": 50,
-      "medianDays": 49,
+      "dated": 49,
+      "medianDays": 50,
       "reopenedShare": 0.03333333333333333
     },
     {
       "id": "operations",
-      "jobs": 57,
-      "companies": 19,
-      "dated": 54,
-      "medianDays": 38,
-      "reopenedShare": 0.05263157894736842
+      "jobs": 54,
+      "companies": 20,
+      "dated": 50,
+      "medianDays": 26,
+      "reopenedShare": 0.05555555555555555
     },
     {
       "id": "data_analytics",
       "jobs": 53,
-      "companies": 25,
-      "dated": 51,
-      "medianDays": 66,
+      "companies": 24,
+      "dated": 52,
+      "medianDays": 67,
       "reopenedShare": 0.11320754716981132
     },
     {
@@ -145,7 +145,7 @@
       "jobs": 40,
       "companies": 20,
       "dated": 37,
-      "medianDays": 48,
+      "medianDays": 49,
       "reopenedShare": 0.05
     },
     {
@@ -153,39 +153,39 @@
       "jobs": 31,
       "companies": 15,
       "dated": 31,
-      "medianDays": 60,
+      "medianDays": 61,
       "reopenedShare": 0.03225806451612903
     },
     {
       "id": "design",
-      "jobs": 30,
-      "companies": 17,
-      "dated": 28,
-      "medianDays": 49,
-      "reopenedShare": 0.03333333333333333
-    },
-    {
-      "id": "marketing",
-      "jobs": 28,
-      "companies": 14,
-      "dated": 23,
-      "medianDays": 68,
-      "reopenedShare": 0.03571428571428571
+      "jobs": 29,
+      "companies": 16,
+      "dated": 27,
+      "medianDays": 59,
+      "reopenedShare": 0.034482758620689655
     },
     {
       "id": "hr",
-      "jobs": 28,
-      "companies": 16,
-      "dated": 26,
+      "jobs": 29,
+      "companies": 17,
+      "dated": 27,
       "medianDays": 28,
-      "reopenedShare": 0
+      "reopenedShare": 0.034482758620689655
+    },
+    {
+      "id": "marketing",
+      "jobs": 27,
+      "companies": 13,
+      "dated": 22,
+      "medianDays": 68,
+      "reopenedShare": 0.037037037037037035
     },
     {
       "id": "qa",
-      "jobs": 25,
-      "companies": 8,
-      "dated": 25,
-      "medianDays": 40,
+      "jobs": 26,
+      "companies": 9,
+      "dated": 26,
+      "medianDays": 33,
       "reopenedShare": 0
     },
     {
@@ -201,8 +201,8 @@
       "jobs": 10,
       "companies": 8,
       "dated": 10,
-      "medianDays": 33,
-      "reopenedShare": 0.1
+      "medianDays": 34,
+      "reopenedShare": 0
     },
     {
       "id": "other",
@@ -230,13 +230,13 @@
     "devops_infra",
     "product",
     "finance",
-    "customer_solutions",
     "design",
+    "customer_solutions",
     "sales",
-    "qa",
-    "operations",
     "legal_compliance",
-    "hr"
+    "qa",
+    "hr",
+    "operations"
   ],
   "companies": [
     {
@@ -245,11 +245,11 @@
     },
     {
       "name": "Nebius",
-      "jobs": 111
+      "jobs": 107
     },
     {
       "name": "Wolt",
-      "jobs": 71
+      "jobs": 72
     },
     {
       "name": "monday.com",
@@ -257,7 +257,7 @@
     },
     {
       "name": "Cato Networks",
-      "jobs": 38
+      "jobs": 37
     },
     {
       "name": "Similarweb",
@@ -265,7 +265,7 @@
     },
     {
       "name": "Payoneer",
-      "jobs": 26
+      "jobs": 27
     },
     {
       "name": "Aidoc",
