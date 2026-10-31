@@ -1,14 +1,14 @@
 {
   "version": 1,
   "country": "IL",
-  "generatedAt": "2026-10-30T10:26:08.111Z",
-  "date": "2026-10-30",
+  "generatedAt": "2026-10-31T09:56:03.337Z",
+  "date": "2026-10-31",
   "totals": {
-    "jobs": 1042,
+    "jobs": 1040,
     "companies": 73,
-    "inCountry": 957,
-    "remote": 85,
-    "ageCoverage": 0.9203454894433781
+    "inCountry": 956,
+    "remote": 84,
+    "ageCoverage": 0.9201923076923076
   },
   "cities": {
     "top": [
@@ -63,9 +63,9 @@
     ],
     "other": {
       "cities": 8,
-      "jobs": 18
+      "jobs": 17
     },
-    "unspecified": 114
+    "unspecified": 113
   },
   "professions": [
     {
@@ -73,23 +73,23 @@
       "jobs": 213,
       "companies": 53,
       "dated": 191,
-      "medianDays": 72,
+      "medianDays": 73,
       "reopenedShare": 0.023474178403755867
     },
     {
       "id": "data_ml_ai",
-      "jobs": 100,
+      "jobs": 101,
       "companies": 32,
-      "dated": 94,
-      "medianDays": 54,
-      "reopenedShare": 0.04
+      "dated": 95,
+      "medianDays": 51,
+      "reopenedShare": 0.039603960396039604
     },
     {
       "id": "security",
       "jobs": 100,
       "companies": 31,
       "dated": 94,
-      "medianDays": 79,
+      "medianDays": 80,
       "reopenedShare": 0.01
     },
     {
@@ -97,16 +97,16 @@
       "jobs": 95,
       "companies": 39,
       "dated": 86,
-      "medianDays": 61,
+      "medianDays": 62,
       "reopenedShare": 0.010526315789473684
     },
     {
       "id": "devops_infra",
-      "jobs": 83,
+      "jobs": 82,
       "companies": 35,
-      "dated": 75,
-      "medianDays": 70,
-      "reopenedShare": 0.03614457831325301
+      "dated": 74,
+      "medianDays": 71,
+      "reopenedShare": 0.036585365853658534
     },
     {
       "id": "logistics_retail",
@@ -121,7 +121,7 @@
       "jobs": 57,
       "companies": 27,
       "dated": 49,
-      "medianDays": 48,
+      "medianDays": 49,
       "reopenedShare": 0.03508771929824561
     },
     {
@@ -129,7 +129,7 @@
       "jobs": 54,
       "companies": 21,
       "dated": 51,
-      "medianDays": 28,
+      "medianDays": 29,
       "reopenedShare": 0.05555555555555555
     },
     {
@@ -137,7 +137,7 @@
       "jobs": 50,
       "companies": 23,
       "dated": 49,
-      "medianDays": 68,
+      "medianDays": 69,
       "reopenedShare": 0.16
     },
     {
@@ -145,23 +145,23 @@
       "jobs": 40,
       "companies": 18,
       "dated": 37,
-      "medianDays": 52,
+      "medianDays": 53,
       "reopenedShare": 0.075
     },
     {
       "id": "finance",
-      "jobs": 35,
+      "jobs": 34,
       "companies": 16,
-      "dated": 35,
-      "medianDays": 40,
-      "reopenedShare": 0.02857142857142857
+      "dated": 34,
+      "medianDays": 34,
+      "reopenedShare": 0.029411764705882353
     },
     {
       "id": "qa",
       "jobs": 30,
       "companies": 9,
       "dated": 30,
-      "medianDays": 36,
+      "medianDays": 37,
       "reopenedShare": 0.13333333333333333
     },
     {
@@ -169,7 +169,7 @@
       "jobs": 29,
       "companies": 17,
       "dated": 27,
-      "medianDays": 59,
+      "medianDays": 60,
       "reopenedShare": 0.034482758620689655
     },
     {
@@ -177,7 +177,7 @@
       "jobs": 26,
       "companies": 13,
       "dated": 21,
-      "medianDays": 59,
+      "medianDays": 60,
       "reopenedShare": 0
     },
     {
@@ -185,7 +185,7 @@
       "jobs": 25,
       "companies": 15,
       "dated": 22,
-      "medianDays": 37,
+      "medianDays": 38,
       "reopenedShare": 0
     },
     {
@@ -201,15 +201,15 @@
       "jobs": 10,
       "companies": 8,
       "dated": 10,
-      "medianDays": 32,
+      "medianDays": 33,
       "reopenedShare": 0
     },
     {
       "id": "other",
-      "jobs": 13,
+      "jobs": 12,
       "companies": 10,
-      "dated": 11,
-      "medianDays": 47,
+      "dated": 10,
+      "medianDays": 48,
       "reopenedShare": 0
     },
     {
@@ -229,12 +229,12 @@
     "product",
     "design",
     "marketing",
-    "data_ml_ai",
     "sales",
+    "data_ml_ai",
     "customer_solutions",
-    "finance",
     "hr",
     "qa",
+    "finance",
     "legal_compliance",
     "operations"
   ],
@@ -260,15 +260,15 @@
       "jobs": 32
     },
     {
-      "name": "Similarweb",
-      "jobs": 27
-    },
-    {
       "name": "Taboola",
       "jobs": 27
     },
     {
       "name": "Payoneer",
+      "jobs": 26
+    },
+    {
+      "name": "Similarweb",
       "jobs": 26
     },
     {
