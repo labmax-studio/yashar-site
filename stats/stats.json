@@ -1,14 +1,14 @@
 {
   "version": 1,
   "country": "IL",
-  "generatedAt": "2026-11-04T11:31:02.172Z",
-  "date": "2026-11-04",
+  "generatedAt": "2026-11-05T11:27:46.775Z",
+  "date": "2026-11-05",
   "totals": {
-    "jobs": 1047,
+    "jobs": 1043,
     "companies": 73,
-    "inCountry": 964,
-    "remote": 83,
-    "ageCoverage": 0.9178605539637058
+    "inCountry": 958,
+    "remote": 85,
+    "ageCoverage": 0.9165867689357622
   },
   "cities": {
     "top": [
@@ -16,13 +16,7 @@
         "id": "a962c2b1-6f68-4928-b56d-626c22395e02",
         "name_local": "תל אביב-יפו",
         "name_en": "Tel Aviv-Yafo",
-        "jobs": 566
-      },
-      {
-        "id": "6a28b9c3-c0d2-467b-809f-3d31738b5bd6",
-        "name_local": "ירושלים",
-        "name_en": "Jerusalem",
-        "jobs": 71
+        "jobs": 564
       },
       {
         "id": "12d97f6b-6a29-42b9-b713-2d02bec6d628",
@@ -31,10 +25,16 @@
         "jobs": 67
       },
       {
+        "id": "6a28b9c3-c0d2-467b-809f-3d31738b5bd6",
+        "name_local": "ירושלים",
+        "name_en": "Jerusalem",
+        "jobs": 65
+      },
+      {
         "id": "7d6ca1fe-d33e-49e9-acb0-f01ea0462166",
         "name_local": "הרצליה",
         "name_en": "Herzliya",
-        "jobs": 61
+        "jobs": 63
       },
       {
         "id": "fe5a070e-7b35-47ed-a6d0-bf59764597ec",
@@ -46,67 +46,67 @@
         "id": "85c3a821-addf-4678-bea6-849e9da70ea1",
         "name_local": "נתניה",
         "name_en": "Netanya",
-        "jobs": 27
+        "jobs": 26
       },
       {
         "id": "23c7e84b-6953-4450-b02a-d7fc59ec7556",
         "name_local": "פתח תקווה",
         "name_en": "Petah Tikva",
-        "jobs": 24
+        "jobs": 25
       },
       {
         "id": "adfea808-e55e-4970-8feb-aea48f1547b0",
         "name_local": "רעננה",
         "name_en": "Ra'anana",
-        "jobs": 15
+        "jobs": 13
       }
     ],
     "other": {
       "cities": 8,
       "jobs": 18
     },
-    "unspecified": 109
+    "unspecified": 110
   },
   "professions": [
     {
       "id": "software",
-      "jobs": 219,
+      "jobs": 220,
       "companies": 56,
-      "dated": 195,
-      "medianDays": 73,
-      "reopenedShare": 0.0502283105022831
+      "dated": 196,
+      "medianDays": 66,
+      "reopenedShare": 0.05454545454545454
     },
     {
       "id": "security",
-      "jobs": 102,
-      "companies": 32,
-      "dated": 97,
+      "jobs": 101,
+      "companies": 33,
+      "dated": 96,
       "medianDays": 77,
-      "reopenedShare": 0.0196078431372549
+      "reopenedShare": 0.019801980198019802
     },
     {
       "id": "data_ml_ai",
-      "jobs": 101,
+      "jobs": 100,
       "companies": 34,
-      "dated": 95,
-      "medianDays": 47,
-      "reopenedShare": 0.0594059405940594
+      "dated": 94,
+      "medianDays": 48,
+      "reopenedShare": 0.06
     },
     {
       "id": "product",
       "jobs": 93,
       "companies": 39,
       "dated": 85,
-      "medianDays": 55,
+      "medianDays": 27,
       "reopenedShare": 0
     },
     {
       "id": "devops_infra",
-      "jobs": 80,
+      "jobs": 81,
       "companies": 34,
       "dated": 72,
-      "medianDays": 118,
-      "reopenedShare": 0.0625
+      "medianDays": 119,
+      "reopenedShare": 0.06172839506172839
     },
     {
       "id": "logistics_retail",
@@ -121,72 +121,72 @@
       "jobs": 55,
       "companies": 26,
       "dated": 47,
-      "medianDays": 51,
+      "medianDays": 52,
       "reopenedShare": 0.05454545454545454
     },
     {
-      "id": "operations",
-      "jobs": 53,
-      "companies": 20,
+      "id": "data_analytics",
+      "jobs": 51,
+      "companies": 23,
       "dated": 50,
-      "medianDays": 32,
-      "reopenedShare": 0.07547169811320754
+      "medianDays": 74,
+      "reopenedShare": 0.19607843137254902
     },
     {
-      "id": "data_analytics",
+      "id": "operations",
       "jobs": 50,
-      "companies": 22,
-      "dated": 49,
-      "medianDays": 75,
-      "reopenedShare": 0.18
+      "companies": 20,
+      "dated": 47,
+      "medianDays": 35,
+      "reopenedShare": 0.1
     },
     {
       "id": "sales",
-      "jobs": 43,
-      "companies": 20,
-      "dated": 40,
+      "jobs": 41,
+      "companies": 19,
+      "dated": 38,
       "medianDays": 42,
-      "reopenedShare": 0.09302325581395349
+      "reopenedShare": 0.0975609756097561
     },
     {
       "id": "finance",
       "jobs": 33,
-      "companies": 16,
+      "companies": 17,
       "dated": 32,
-      "medianDays": 41,
+      "medianDays": 23,
       "reopenedShare": 0
     },
     {
       "id": "design",
-      "jobs": 29,
-      "companies": 18,
-      "dated": 26,
-      "medianDays": 64,
-      "reopenedShare": 0.06896551724137931
+      "jobs": 27,
+      "companies": 16,
+      "dated": 24,
+      "medianDays": 52,
+      "reopenedShare": 0.07407407407407407
+    },
+    {
+      "id": "marketing",
+      "jobs": 27,
+      "companies": 13,
+      "dated": 21,
+      "medianDays": 65,
+      "reopenedShare": 0.037037037037037035
     },
     {
       "id": "hr",
-      "jobs": 28,
-      "companies": 17,
+      "jobs": 27,
+      "companies": 16,
       "dated": 24,
-      "medianDays": 37,
-      "reopenedShare": 0.03571428571428571
+      "medianDays": 38,
+      "reopenedShare": 0.037037037037037035
     },
     {
       "id": "qa",
       "jobs": 26,
-      "companies": 9,
+      "companies": 8,
       "dated": 26,
-      "medianDays": 27,
-      "reopenedShare": 0.15384615384615385
-    },
-    {
-      "id": "marketing",
-      "jobs": 26,
-      "companies": 13,
-      "dated": 21,
-      "medianDays": 64,
-      "reopenedShare": 0
+      "medianDays": 36,
+      "reopenedShare": 0.19230769230769232
     },
     {
       "id": "frontend",
@@ -198,18 +198,18 @@
     },
     {
       "id": "legal_compliance",
-      "jobs": 10,
+      "jobs": 11,
       "companies": 9,
-      "dated": 10,
+      "dated": 11,
       "medianDays": 28,
       "reopenedShare": 0
     },
     {
       "id": "other",
-      "jobs": 17,
-      "companies": 12,
-      "dated": 15,
-      "medianDays": 29,
+      "jobs": 18,
+      "companies": 13,
+      "dated": 16,
+      "medianDays": 37,
       "reopenedShare": 0
     },
     {
@@ -226,26 +226,26 @@
     "security",
     "data_analytics",
     "software",
-    "design",
     "marketing",
-    "product",
     "customer_solutions",
+    "design",
     "data_ml_ai",
     "sales",
-    "finance",
     "hr",
+    "qa",
     "operations",
     "legal_compliance",
-    "qa"
+    "product",
+    "finance"
   ],
   "companies": [
     {
       "name": "Mobileye",
-      "jobs": 157
+      "jobs": 150
     },
     {
       "name": "Nebius",
-      "jobs": 104
+      "jobs": 102
     },
     {
       "name": "Wolt",
@@ -260,6 +260,10 @@
       "jobs": 34
     },
     {
+      "name": "Taboola",
+      "jobs": 29
+    },
+    {
       "name": "AppsFlyer",
       "jobs": 27
     },
@@ -268,16 +272,12 @@
       "jobs": 27
     },
     {
-      "name": "Taboola",
+      "name": "Upwind",
       "jobs": 27
     },
     {
       "name": "Wiz",
       "jobs": 27
-    },
-    {
-      "name": "Upwind",
-      "jobs": 26
     }
   ],
   "thresholds": {
