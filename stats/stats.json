@@ -1,14 +1,14 @@
 {
   "version": 1,
   "country": "IL",
-  "generatedAt": "2026-11-13T11:29:59.130Z",
-  "date": "2026-11-13",
+  "generatedAt": "2026-11-14T10:52:30.707Z",
+  "date": "2026-11-14",
   "totals": {
-    "jobs": 1013,
+    "jobs": 1011,
     "companies": 74,
-    "inCountry": 923,
-    "remote": 90,
-    "ageCoverage": 0.9111549851924975
+    "inCountry": 922,
+    "remote": 89,
+    "ageCoverage": 0.9109792284866469
   },
   "cities": {
     "top": [
@@ -22,7 +22,7 @@
         "id": "6a28b9c3-c0d2-467b-809f-3d31738b5bd6",
         "name_local": "ירושלים",
         "name_en": "Jerusalem",
-        "jobs": 68
+        "jobs": 67
       },
       {
         "id": "7d6ca1fe-d33e-49e9-acb0-f01ea0462166",
@@ -34,7 +34,7 @@
         "id": "12d97f6b-6a29-42b9-b713-2d02bec6d628",
         "name_local": "רמת גן",
         "name_en": "Ramat Gan",
-        "jobs": 58
+        "jobs": 59
       },
       {
         "id": "fe5a070e-7b35-47ed-a6d0-bf59764597ec",
@@ -65,7 +65,7 @@
       "cities": 7,
       "jobs": 17
     },
-    "unspecified": 107
+    "unspecified": 106
   },
   "professions": [
     {
@@ -73,7 +73,7 @@
       "jobs": 226,
       "companies": 52,
       "dated": 200,
-      "medianDays": 74,
+      "medianDays": 75,
       "reopenedShare": 0.09734513274336283
     },
     {
@@ -81,7 +81,7 @@
       "jobs": 100,
       "companies": 33,
       "dated": 95,
-      "medianDays": 58,
+      "medianDays": 59,
       "reopenedShare": 0.03
     },
     {
@@ -89,7 +89,7 @@
       "jobs": 92,
       "companies": 33,
       "dated": 85,
-      "medianDays": 64,
+      "medianDays": 65,
       "reopenedShare": 0.10869565217391304
     },
     {
@@ -97,7 +97,7 @@
       "jobs": 85,
       "companies": 37,
       "dated": 75,
-      "medianDays": 32,
+      "medianDays": 33,
       "reopenedShare": 0.023529411764705882
     },
     {
@@ -105,16 +105,8 @@
       "jobs": 80,
       "companies": 31,
       "dated": 72,
-      "medianDays": 82,
+      "medianDays": 83,
       "reopenedShare": 0.0875
-    },
-    {
-      "id": "operations",
-      "jobs": 56,
-      "companies": 20,
-      "dated": 52,
-      "medianDays": 26,
-      "reopenedShare": 0.10714285714285714
     },
     {
       "id": "logistics_retail",
@@ -125,11 +117,19 @@
       "reopenedShare": null
     },
     {
+      "id": "operations",
+      "jobs": 53,
+      "companies": 20,
+      "dated": 49,
+      "medianDays": 27,
+      "reopenedShare": 0.11320754716981132
+    },
+    {
       "id": "data_analytics",
       "jobs": 52,
       "companies": 24,
       "dated": 51,
-      "medianDays": 58,
+      "medianDays": 59,
       "reopenedShare": 0.15384615384615385
     },
     {
@@ -137,23 +137,23 @@
       "jobs": 52,
       "companies": 28,
       "dated": 44,
-      "medianDays": 51,
+      "medianDays": 52,
       "reopenedShare": 0.07692307692307693
     },
     {
       "id": "sales",
-      "jobs": 40,
-      "companies": 18,
-      "dated": 36,
-      "medianDays": 37,
-      "reopenedShare": 0.075
+      "jobs": 41,
+      "companies": 19,
+      "dated": 37,
+      "medianDays": 30,
+      "reopenedShare": 0.07317073170731707
     },
     {
       "id": "finance",
       "jobs": 37,
       "companies": 20,
       "dated": 36,
-      "medianDays": 22,
+      "medianDays": 23,
       "reopenedShare": 0.02702702702702703
     },
     {
@@ -161,7 +161,7 @@
       "jobs": 24,
       "companies": 13,
       "dated": 19,
-      "medianDays": 45,
+      "medianDays": 46,
       "reopenedShare": 0
     },
     {
@@ -169,15 +169,15 @@
       "jobs": 23,
       "companies": 16,
       "dated": 20,
-      "medianDays": 51,
-      "reopenedShare": 0.13043478260869565
+      "medianDays": 52,
+      "reopenedShare": 0.08695652173913043
     },
     {
       "id": "qa",
       "jobs": 21,
       "companies": 6,
       "dated": 21,
-      "medianDays": 54,
+      "medianDays": 55,
       "reopenedShare": 0.23809523809523808
     },
     {
@@ -185,7 +185,7 @@
       "jobs": 20,
       "companies": 14,
       "dated": 19,
-      "medianDays": 43,
+      "medianDays": 44,
       "reopenedShare": 0.05
     },
     {
@@ -201,7 +201,7 @@
       "jobs": 13,
       "companies": 10,
       "dated": 13,
-      "medianDays": 30,
+      "medianDays": 31,
       "reopenedShare": 0
     },
     {
@@ -209,7 +209,7 @@
       "jobs": 17,
       "companies": 13,
       "dated": 15,
-      "medianDays": 30,
+      "medianDays": 31,
       "reopenedShare": 0.11764705882352941
     },
     {
@@ -232,20 +232,20 @@
     "hr",
     "marketing",
     "design",
-    "sales",
     "product",
     "legal_compliance",
+    "sales",
     "operations",
     "finance"
   ],
   "companies": [
     {
       "name": "Mobileye",
-      "jobs": 151
+      "jobs": 150
     },
     {
       "name": "Nebius",
-      "jobs": 106
+      "jobs": 105
     },
     {
       "name": "Wolt",
@@ -257,7 +257,7 @@
     },
     {
       "name": "Cato Networks",
-      "jobs": 37
+      "jobs": 36
     },
     {
       "name": "Aidoc",
