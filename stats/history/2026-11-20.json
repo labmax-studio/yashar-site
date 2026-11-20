@@ -1,0 +1,289 @@
+{
+  "version": 1,
+  "country": "IL",
+  "generatedAt": "2026-11-20T12:07:50.860Z",
+  "date": "2026-11-20",
+  "totals": {
+    "jobs": 957,
+    "companies": 71,
+    "inCountry": 876,
+    "remote": 81,
+    "ageCoverage": 0.9278996865203761
+  },
+  "cities": {
+    "top": [
+      {
+        "id": "a962c2b1-6f68-4928-b56d-626c22395e02",
+        "name_local": "תל אביב-יפו",
+        "name_en": "Tel Aviv-Yafo",
+        "jobs": 511
+      },
+      {
+        "id": "12d97f6b-6a29-42b9-b713-2d02bec6d628",
+        "name_local": "רמת גן",
+        "name_en": "Ramat Gan",
+        "jobs": 66
+      },
+      {
+        "id": "6a28b9c3-c0d2-467b-809f-3d31738b5bd6",
+        "name_local": "ירושלים",
+        "name_en": "Jerusalem",
+        "jobs": 63
+      },
+      {
+        "id": "7d6ca1fe-d33e-49e9-acb0-f01ea0462166",
+        "name_local": "הרצליה",
+        "name_en": "Herzliya",
+        "jobs": 59
+      },
+      {
+        "id": "fe5a070e-7b35-47ed-a6d0-bf59764597ec",
+        "name_local": "חיפה",
+        "name_en": "Haifa",
+        "jobs": 31
+      },
+      {
+        "id": "85c3a821-addf-4678-bea6-849e9da70ea1",
+        "name_local": "נתניה",
+        "name_en": "Netanya",
+        "jobs": 24
+      },
+      {
+        "id": "23c7e84b-6953-4450-b02a-d7fc59ec7556",
+        "name_local": "פתח תקווה",
+        "name_en": "Petah Tikva",
+        "jobs": 24
+      },
+      {
+        "id": "adfea808-e55e-4970-8feb-aea48f1547b0",
+        "name_local": "רעננה",
+        "name_en": "Ra'anana",
+        "jobs": 10
+      }
+    ],
+    "other": {
+      "cities": 7,
+      "jobs": 17
+    },
+    "unspecified": 89
+  },
+  "professions": [
+    {
+      "id": "software",
+      "jobs": 208,
+      "companies": 50,
+      "dated": 187,
+      "medianDays": 71,
+      "reopenedShare": 0.08653846153846154
+    },
+    {
+      "id": "data_ml_ai",
+      "jobs": 97,
+      "companies": 33,
+      "dated": 93,
+      "medianDays": 65,
+      "reopenedShare": 0.14432989690721648
+    },
+    {
+      "id": "security",
+      "jobs": 94,
+      "companies": 33,
+      "dated": 90,
+      "medianDays": 57,
+      "reopenedShare": 0.05319148936170213
+    },
+    {
+      "id": "product",
+      "jobs": 82,
+      "companies": 35,
+      "dated": 73,
+      "medianDays": 38,
+      "reopenedShare": 0.036585365853658534
+    },
+    {
+      "id": "devops_infra",
+      "jobs": 80,
+      "companies": 29,
+      "dated": 74,
+      "medianDays": 104,
+      "reopenedShare": 0.0875
+    },
+    {
+      "id": "logistics_retail",
+      "jobs": 58,
+      "companies": 3,
+      "dated": 57,
+      "medianDays": null,
+      "reopenedShare": null
+    },
+    {
+      "id": "operations",
+      "jobs": 53,
+      "companies": 20,
+      "dated": 49,
+      "medianDays": 30,
+      "reopenedShare": 0.18867924528301888
+    },
+    {
+      "id": "data_analytics",
+      "jobs": 44,
+      "companies": 26,
+      "dated": 44,
+      "medianDays": 58,
+      "reopenedShare": 0.13636363636363635
+    },
+    {
+      "id": "customer_solutions",
+      "jobs": 44,
+      "companies": 25,
+      "dated": 39,
+      "medianDays": 67,
+      "reopenedShare": 0.09090909090909091
+    },
+    {
+      "id": "sales",
+      "jobs": 34,
+      "companies": 17,
+      "dated": 33,
+      "medianDays": 36,
+      "reopenedShare": 0.11764705882352941
+    },
+    {
+      "id": "finance",
+      "jobs": 33,
+      "companies": 21,
+      "dated": 31,
+      "medianDays": 28,
+      "reopenedShare": 0.030303030303030304
+    },
+    {
+      "id": "marketing",
+      "jobs": 24,
+      "companies": 12,
+      "dated": 19,
+      "medianDays": 52,
+      "reopenedShare": 0
+    },
+    {
+      "id": "design",
+      "jobs": 21,
+      "companies": 13,
+      "dated": 21,
+      "medianDays": 31,
+      "reopenedShare": 0.047619047619047616
+    },
+    {
+      "id": "qa",
+      "jobs": 18,
+      "companies": 7,
+      "dated": 18,
+      "medianDays": 58,
+      "reopenedShare": 0.1111111111111111
+    },
+    {
+      "id": "hr",
+      "jobs": 18,
+      "companies": 15,
+      "dated": 15,
+      "medianDays": 41,
+      "reopenedShare": 0.1111111111111111
+    },
+    {
+      "id": "legal_compliance",
+      "jobs": 13,
+      "companies": 10,
+      "dated": 12,
+      "medianDays": 38,
+      "reopenedShare": 0.07692307692307693
+    },
+    {
+      "id": "frontend",
+      "jobs": 9,
+      "companies": 6,
+      "dated": 8,
+      "medianDays": null,
+      "reopenedShare": null
+    },
+    {
+      "id": "other",
+      "jobs": 20,
+      "companies": 14,
+      "dated": 18,
+      "medianDays": 34,
+      "reopenedShare": 0.2
+    },
+    {
+      "id": "general",
+      "jobs": 7,
+      "companies": 6,
+      "dated": 7,
+      "medianDays": null,
+      "reopenedShare": null
+    }
+  ],
+  "longestOpen": [
+    "devops_infra",
+    "software",
+    "customer_solutions",
+    "data_ml_ai",
+    "data_analytics",
+    "qa",
+    "security",
+    "marketing",
+    "hr",
+    "product",
+    "legal_compliance",
+    "sales",
+    "design",
+    "operations",
+    "finance"
+  ],
+  "companies": [
+    {
+      "name": "Mobileye",
+      "jobs": 147
+    },
+    {
+      "name": "Nebius",
+      "jobs": 102
+    },
+    {
+      "name": "Wolt",
+      "jobs": 68
+    },
+    {
+      "name": "monday.com",
+      "jobs": 55
+    },
+    {
+      "name": "Cato Networks",
+      "jobs": 35
+    },
+    {
+      "name": "Wiz",
+      "jobs": 30
+    },
+    {
+      "name": "Aidoc",
+      "jobs": 28
+    },
+    {
+      "name": "AppsFlyer",
+      "jobs": 26
+    },
+    {
+      "name": "Upwind",
+      "jobs": 25
+    },
+    {
+      "name": "Similarweb",
+      "jobs": 23
+    }
+  ],
+  "thresholds": {
+    "minCityJobs": 5,
+    "minDated": 10,
+    "minCompanies": 5,
+    "median": "by_company"
+  }
+}
