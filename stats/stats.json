@@ -1,14 +1,14 @@
 {
   "version": 1,
   "country": "IL",
-  "generatedAt": "2026-11-20T12:07:50.860Z",
-  "date": "2026-11-20",
+  "generatedAt": "2026-11-21T11:43:04.103Z",
+  "date": "2026-11-21",
   "totals": {
-    "jobs": 957,
+    "jobs": 953,
     "companies": 71,
-    "inCountry": 876,
-    "remote": 81,
-    "ageCoverage": 0.9278996865203761
+    "inCountry": 873,
+    "remote": 80,
+    "ageCoverage": 0.9275970619097587
   },
   "cities": {
     "top": [
@@ -16,7 +16,7 @@
         "id": "a962c2b1-6f68-4928-b56d-626c22395e02",
         "name_local": "תל אביב-יפו",
         "name_en": "Tel Aviv-Yafo",
-        "jobs": 511
+        "jobs": 509
       },
       {
         "id": "12d97f6b-6a29-42b9-b713-2d02bec6d628",
@@ -65,7 +65,7 @@
       "cities": 7,
       "jobs": 17
     },
-    "unspecified": 89
+    "unspecified": 88
   },
   "professions": [
     {
@@ -73,23 +73,23 @@
       "jobs": 208,
       "companies": 50,
       "dated": 187,
-      "medianDays": 71,
+      "medianDays": 72,
       "reopenedShare": 0.08653846153846154
     },
     {
       "id": "data_ml_ai",
-      "jobs": 97,
+      "jobs": 96,
       "companies": 33,
-      "dated": 93,
-      "medianDays": 65,
-      "reopenedShare": 0.14432989690721648
+      "dated": 92,
+      "medianDays": 66,
+      "reopenedShare": 0.14583333333333334
     },
     {
       "id": "security",
       "jobs": 94,
       "companies": 33,
       "dated": 90,
-      "medianDays": 57,
+      "medianDays": 58,
       "reopenedShare": 0.05319148936170213
     },
     {
@@ -97,7 +97,7 @@
       "jobs": 82,
       "companies": 35,
       "dated": 73,
-      "medianDays": 38,
+      "medianDays": 39,
       "reopenedShare": 0.036585365853658534
     },
     {
@@ -105,7 +105,7 @@
       "jobs": 80,
       "companies": 29,
       "dated": 74,
-      "medianDays": 104,
+      "medianDays": 105,
       "reopenedShare": 0.0875
     },
     {
@@ -121,7 +121,7 @@
       "jobs": 53,
       "companies": 20,
       "dated": 49,
-      "medianDays": 30,
+      "medianDays": 31,
       "reopenedShare": 0.18867924528301888
     },
     {
@@ -129,23 +129,23 @@
       "jobs": 44,
       "companies": 26,
       "dated": 44,
-      "medianDays": 58,
+      "medianDays": 59,
       "reopenedShare": 0.13636363636363635
     },
     {
       "id": "customer_solutions",
-      "jobs": 44,
-      "companies": 25,
-      "dated": 39,
-      "medianDays": 67,
-      "reopenedShare": 0.09090909090909091
+      "jobs": 42,
+      "companies": 24,
+      "dated": 37,
+      "medianDays": 60,
+      "reopenedShare": 0.09523809523809523
     },
     {
       "id": "sales",
       "jobs": 34,
       "companies": 17,
       "dated": 33,
-      "medianDays": 36,
+      "medianDays": 37,
       "reopenedShare": 0.11764705882352941
     },
     {
@@ -153,15 +153,15 @@
       "jobs": 33,
       "companies": 21,
       "dated": 31,
-      "medianDays": 28,
+      "medianDays": 29,
       "reopenedShare": 0.030303030303030304
     },
     {
       "id": "marketing",
-      "jobs": 24,
+      "jobs": 23,
       "companies": 12,
-      "dated": 19,
-      "medianDays": 52,
+      "dated": 18,
+      "medianDays": 45,
       "reopenedShare": 0
     },
     {
@@ -169,7 +169,7 @@
       "jobs": 21,
       "companies": 13,
       "dated": 21,
-      "medianDays": 31,
+      "medianDays": 32,
       "reopenedShare": 0.047619047619047616
     },
     {
@@ -177,7 +177,7 @@
       "jobs": 18,
       "companies": 7,
       "dated": 18,
-      "medianDays": 58,
+      "medianDays": 59,
       "reopenedShare": 0.1111111111111111
     },
     {
@@ -185,7 +185,7 @@
       "jobs": 18,
       "companies": 15,
       "dated": 15,
-      "medianDays": 41,
+      "medianDays": 42,
       "reopenedShare": 0.1111111111111111
     },
     {
@@ -193,7 +193,7 @@
       "jobs": 13,
       "companies": 10,
       "dated": 12,
-      "medianDays": 38,
+      "medianDays": 39,
       "reopenedShare": 0.07692307692307693
     },
     {
@@ -209,7 +209,7 @@
       "jobs": 20,
       "companies": 14,
       "dated": 18,
-      "medianDays": 34,
+      "medianDays": 35,
       "reopenedShare": 0.2
     },
     {
@@ -224,8 +224,8 @@
   "longestOpen": [
     "devops_infra",
     "software",
-    "customer_solutions",
     "data_ml_ai",
+    "customer_solutions",
     "data_analytics",
     "qa",
     "security",
@@ -245,7 +245,7 @@
     },
     {
       "name": "Nebius",
-      "jobs": 102
+      "jobs": 101
     },
     {
       "name": "Wolt",
@@ -253,7 +253,7 @@
     },
     {
       "name": "monday.com",
-      "jobs": 55
+      "jobs": 54
     },
     {
       "name": "Cato Networks",
