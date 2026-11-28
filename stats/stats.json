@@ -1,14 +1,14 @@
 {
   "version": 1,
   "country": "IL",
-  "generatedAt": "2026-11-27T13:03:35.597Z",
-  "date": "2026-11-27",
+  "generatedAt": "2026-11-28T12:16:11.014Z",
+  "date": "2026-11-28",
   "totals": {
-    "jobs": 936,
+    "jobs": 933,
     "companies": 72,
     "inCountry": 855,
-    "remote": 81,
-    "ageCoverage": 0.9134615384615384
+    "remote": 78,
+    "ageCoverage": 0.9131832797427653
   },
   "cities": {
     "top": [
@@ -73,31 +73,31 @@
       "jobs": 212,
       "companies": 50,
       "dated": 186,
-      "medianDays": 71,
+      "medianDays": 72,
       "reopenedShare": 0.09433962264150944
     },
     {
       "id": "data_ml_ai",
-      "jobs": 98,
+      "jobs": 97,
       "companies": 32,
-      "dated": 95,
-      "medianDays": 67,
-      "reopenedShare": 0.19387755102040816
+      "dated": 94,
+      "medianDays": 68,
+      "reopenedShare": 0.1958762886597938
     },
     {
       "id": "security",
-      "jobs": 88,
+      "jobs": 86,
       "companies": 32,
-      "dated": 84,
-      "medianDays": 58,
-      "reopenedShare": 0.07954545454545454
+      "dated": 82,
+      "medianDays": 59,
+      "reopenedShare": 0.08139534883720931
     },
     {
       "id": "product",
       "jobs": 82,
       "companies": 38,
       "dated": 72,
-      "medianDays": 34,
+      "medianDays": 35,
       "reopenedShare": 0.024390243902439025
     },
     {
@@ -105,7 +105,7 @@
       "jobs": 75,
       "companies": 27,
       "dated": 68,
-      "medianDays": 95,
+      "medianDays": 96,
       "reopenedShare": 0.06666666666666667
     },
     {
@@ -121,7 +121,7 @@
       "jobs": 49,
       "companies": 22,
       "dated": 44,
-      "medianDays": 43,
+      "medianDays": 44,
       "reopenedShare": 0.24489795918367346
     },
     {
@@ -129,7 +129,7 @@
       "jobs": 46,
       "companies": 26,
       "dated": 39,
-      "medianDays": 49,
+      "medianDays": 50,
       "reopenedShare": 0.06521739130434782
     },
     {
@@ -137,7 +137,7 @@
       "jobs": 39,
       "companies": 23,
       "dated": 38,
-      "medianDays": 87,
+      "medianDays": 88,
       "reopenedShare": 0.20512820512820512
     },
     {
@@ -145,7 +145,7 @@
       "jobs": 37,
       "companies": 17,
       "dated": 35,
-      "medianDays": 38,
+      "medianDays": 39,
       "reopenedShare": 0.08108108108108109
     },
     {
@@ -161,7 +161,7 @@
       "jobs": 22,
       "companies": 13,
       "dated": 17,
-      "medianDays": 44,
+      "medianDays": 45,
       "reopenedShare": 0
     },
     {
@@ -169,7 +169,7 @@
       "jobs": 19,
       "companies": 16,
       "dated": 18,
-      "medianDays": 38,
+      "medianDays": 39,
       "reopenedShare": 0.21052631578947367
     },
     {
@@ -177,7 +177,7 @@
       "jobs": 17,
       "companies": 6,
       "dated": 16,
-      "medianDays": 65,
+      "medianDays": 66,
       "reopenedShare": 0
     },
     {
@@ -185,7 +185,7 @@
       "jobs": 16,
       "companies": 10,
       "dated": 16,
-      "medianDays": 36,
+      "medianDays": 37,
       "reopenedShare": 0.0625
     },
     {
@@ -193,7 +193,7 @@
       "jobs": 13,
       "companies": 10,
       "dated": 12,
-      "medianDays": 45,
+      "medianDays": 46,
       "reopenedShare": 0.07692307692307693
     },
     {
@@ -209,7 +209,7 @@
       "jobs": 21,
       "companies": 16,
       "dated": 19,
-      "medianDays": 53,
+      "medianDays": 54,
       "reopenedShare": 0.09523809523809523
     },
     {
@@ -245,7 +245,7 @@
     },
     {
       "name": "Nebius",
-      "jobs": 97
+      "jobs": 94
     },
     {
       "name": "Wolt",
